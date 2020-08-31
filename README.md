@@ -1,2 +1,1 @@
-# indian_eco_deck
- 
+Indian  Economy Deck

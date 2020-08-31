@@ -3213,7 +3213,7 @@ Slides - Backgrounds <section class="bg-primary">
   background-color: #c23; }
 
 .bg-black-red {
-    background-color: rgb(31, 0, 4); }
+    background-color: rgb(16, 0, 2); }
   
 
 .bg-white {
@@ -3845,6 +3845,10 @@ Slides Index
   .shiftup {
     margin-top:-2%;
   }
+
+  .shiftupx {
+    margin-top:-8%;
+  }
   
   .givepaddingx {
     margin-bottom:3%;
@@ -3864,7 +3868,7 @@ Slides Index
 
   .give-transparency {
 
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.207);
   }
 
   .give-dark-transparency {
@@ -3887,3 +3891,9 @@ Slides Index
     width: 40%;
   
   }
+
+  .givespacing{
+
+    letter-spacing: 0.5rem;
+  }
+

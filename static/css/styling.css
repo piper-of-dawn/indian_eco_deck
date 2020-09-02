@@ -3799,7 +3799,7 @@ Slides Index
 
   .shiftupx {
     margin-top:-8%;
-  }
+    }
   
   .givepaddingx {
     margin-bottom:3%;
@@ -3853,3 +3853,24 @@ Slides Index
 
     letter-spacing: 0.5rem;
   }
+
+  .shifttopx {
+    margin-top:-15%;
+    position: absolute;
+    }
+
+
+    .shiftbottom {
+      margin-top:8%;
+      position: absolute;
+      }
+
+    .shiftbottomx {
+      margin-top:15%;
+      position: absolute;
+      }
+  
+      .justify{
+        text-align: justify;
+        text-justify: inter-word;
+      }
